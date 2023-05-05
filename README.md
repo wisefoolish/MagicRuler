@@ -8,6 +8,9 @@
 下载main.cpp，在visual studio 2022下运行，需提前下好最新版本的easyx图形库。
 Win32 文件夹里的三份代码可以不用下载easyx图形库也能在windows平台运行出来，运行环境为visual studio 2022。其中Graph是我仿照easyx写的图形库代码，链接为:https://github.com/wisefoolish/HXD_Easyx 。
 
+# 网页版(web version)
+https://wisefoolish.github.io/staticHtml/MagicRuler.html
+
 # Magic Ruler
 
 This project uses easyx graphics library to simulating a magic ruler.
